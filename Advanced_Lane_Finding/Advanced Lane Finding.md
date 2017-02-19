@@ -848,7 +848,7 @@ class Line():
 
 ## Pipeline (video)
 
-The video produced from the analysis is generated from the code below.
+The video produced from the analysis is generated from the code below. You may find the video in the same folder, called lane_lines_output.mp4
 
 
 ```python
